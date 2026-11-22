@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "davidpdrsn",
+  "repo": "assert-json-diff",
+  "versions": [
+    {
+      "commit": "bca0d2c590808274298d939e0533da79cd09076d",
+      "parsed_at": "2026-11-22T18:03:04.231782+00:00",
+      "tag": "v2.0.2",
+      "filetree": "filetree/bca0d2c590808274298d939e0533da79cd09076d.nq.gz",
+      "blobs": [
+        "blob/411eea548ea690cf9b54c912e7c27003d96c0b62.nq.gz",
+        "blob/693699042b1a8ccf697636d3cd34b200f3a8278b.nq.gz",
+        "blob/7b1c4d56adf3062af8556bb31d2ed69639becfef.nq.gz",
+        "blob/7abf1c78f12bca968c8c1937bc03971e79e900e5.nq.gz",
+        "blob/961b34910885366271e298ce13656c1e501ed282.nq.gz",
+        "blob/daeabc3df95dc4c81dc1902f6107a0d6d2f8d1e8.nq.gz",
+        "blob/f73cdc8bb6a023aec8469aa0a086f9b84d1d729c.nq.gz",
+        "blob/286e99e846f475e13af00191f170a792e745baef.nq.gz",
+        "blob/d824be41db0cda4ccb58a50289f11c1ddb6d8782.nq.gz",
+        "blob/6abc94e7262f3ce92eb46bcdbfea374d232a8965.nq.gz",
+        "blob/1bbe8ee11073c9c819df08b5a38b0f7c525715db.nq.gz",
+        "blob/498dd6f621849ea249865d1b033cfea270cd170c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
